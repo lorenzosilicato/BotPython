@@ -10,7 +10,7 @@ default_app = firebase_admin.initialize_app(cred_obj, {
 	})
 
 # Definiamo le costanti del bot
-TOKEN = '5869011497:AAEOsqqKuEir9-3jFxuNwrhTB50T9-kudEA'
+TOKEN = TOKEN
 PORT = 5000
 
 
